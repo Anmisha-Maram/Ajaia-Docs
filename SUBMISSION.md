@@ -1,7 +1,12 @@
 # Submission
 
 **Live app:** https://ajaia-docs-wyqi.onrender.com (free hosting; the first load after a quiet period can take up to a minute)
+
 **Code:** https://github.com/Anmisha-Maram/Ajaia-Docs
+
+**Drive folder:** https://drive.google.com/drive/folders/1F3QQULnQ7rCpQ4XzXPqSIjuEYThIBlpv?usp=drive_link
+
+**Video:** https://www.loom.com/share/d62f3552d7fb4251bc8385a8f96860f8
 
 ## Included
 | Item | File or location |
