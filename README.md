@@ -2,6 +2,8 @@
 
 A lightweight collaborative document editor: rich-text editing, file import, and sharing with editor/viewer roles. Python (FastAPI) + Postgres + Quill.
 
+**Live demo:** https://ajaia-docs-wyqi.onrender.com (free hosting, so the first load after a quiet period can take up to a minute)
+
 ## Run locally
 
 Requires Python 3.12 and a running Postgres.
